@@ -26,4 +26,4 @@
 ---
 
 ## 💬 Motto
-> **"Deep focus, ruthless execution, long-term patience."**
+> **"Deep focus with discipline, ruthless execution, long-term patience."**
