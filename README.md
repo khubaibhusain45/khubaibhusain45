@@ -6,7 +6,7 @@
 🔭 I’m currently focused on:
 - 📚 Mastering **Data Structures & Algorithms**
 - ☕ Deep diving into **Java**, **Kotlin**, and **Flutter Development**
-- 🤖 Building **Android apps** using Java
+- 🤖 Building **Android apps** using Java and Kotlin
 - 🧠 Practicing **Deep Work** & Long-Term Thinking
 
 🌱 I’m learning:
