@@ -14,7 +14,7 @@
 - Git & GitHub Workflows
 - How to build a business that helps students
 
-📫 Contact me at: **khubaib.javadev@gmail.com**
+📫 Contact me at: **khubaibhusain45@gmail.com**
 
 ---
 
